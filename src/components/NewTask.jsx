@@ -11,11 +11,8 @@ export default function NewTask({addTask}) {
         if(taskInput.trim() === '') {
             return;
         }
-        else {
-            addTask(taskInput)
-            setTaskInput('');
-        }
-        
+        addTask(taskInput)
+        setTaskInput('');        
     }
 
     return (
