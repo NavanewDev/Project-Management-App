@@ -3,7 +3,7 @@ This is a basic project management application developed using React Js
 
 Cloning guidelines
 
-git clone 
+git clone https://github.com/NavanewDev/Project-Management-App.git
 Installation guidelines
 
 1. cd Time-Challenger
